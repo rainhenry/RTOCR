@@ -1,0 +1,10 @@
+
+export PKG_CONFIG_PATH=/usr/local/runtime/lib/intel64/pkgconfig
+export InferenceEngine_DIR=/usr/local/runtime/cmake
+export OpenVINO_DIR=/usr/local/runtime/cmake
+export INTEL_OPENVINO_DIR=/usr/local
+export PYTHONPATH=/usr/local/python:/usr/local/python/python3:
+export LD_LIBRARY_PATH=/usr/local/runtime/lib/intel64
+export ngraph_DIR=/usr/local/runtime/cmake
+
+
