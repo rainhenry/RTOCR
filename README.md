@@ -189,7 +189,7 @@ export ngraph_DIR=/usr/local/runtime/cmake
 
 然后直接单击运行按钮就可以正常使用OpenVINO了
 
-### 3.3、源码中开启OpenVINO支持
+### 3.4、源码中开启OpenVINO支持
 
 ![](Image/openvino_src.jpg)
 
@@ -218,16 +218,16 @@ https://paddleocr.bj.bcebos.com/PP-OCRv3/chinese/ch_PP-OCRv3_rec_infer.tar
 
 OpenVINO的Python使用参考 https://github.com/zhuo-yoyowz/openvino_notebooks
 
-## 6、演示视频
+## 5、演示视频
 
 【RTOCR实时光学字符识别 开源项目介绍-哔哩哔哩】 https://b23.tv/u8xpsCq
 
 【RTOCR基于OpenVNIO的优化加速部署-哔哩哔哩】  https://b23.tv/JhMNZEy
 
-## 7、联系方式
+## 6、联系方式
 
 邮箱：rainhenry@savelife-tech.com
 
-## 8、许可证
+## 7、许可证
 
 本代码采用GPLv3许可证 https://www.gnu.org/licenses/gpl-3.0.en.html
